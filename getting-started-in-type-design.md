@@ -55,9 +55,10 @@ You can get more-detailed documentation about RoboFont extensions at https://rob
 - [Type Basics, by Underware](http://www.typeworkshop.com/index.php?id1=type-basics). Not a flashy layout, but a serious of extremely helpful drawings with important lessons for type design.
 - [Type Mechanics, by Tobias Frere-Jones](https://frerejones.com/blog?tag=Education%20Mechanics). More useful explanations of some visual things that are important to know, but not always obvious.
 - [Spacing](https://ohnotype.co/blog/spacing) & [Proofing](https://ohnotype.co/blog/proof-it) by James Edmonson (OHno Type) are two excellent, practical posts for subjects beyond shaping that are super significant to good type design. I also borrowed the first two suggestions from James’s post [Getting Started in Type Design](https://ohnotype.co/blog/getting-started).
-- Books are good, too:
-  - For the very basics of letter-shaping, the first book I read in type design was really helpful: [Designing Type, by Karen Cheng](https://yalebooks.yale.edu/book/9780300111507/designing-type). It goes through each letter, showing their general forms via classic typefaces.
-  - For deeper reflections on theory, [The Theory of Type Design, by Gerard Unger](https://www.amazon.com/Theory-Type-Design-Gerard-Unger/dp/9462084408) is 
+- Some useful books:
+  - For the very basics of letter-shaping, the first book I read in type design was really helpful: [Designing Type, by Karen Cheng](https://yalebooks.yale.edu/book/9780300111507/designing-type). It goes through each letter, showing their general forms via classic typefaces. Not necessarily useful if you have been designing for awhile, but it helped me gain an overall awareness of what is “general practice” that I found really helpful as a beginner.
+  - For deeper (but still approacheable) reflections on theory, [The Theory of Type Design, by Gerard Unger](https://www.amazon.com/Theory-Type-Design-Gerard-Unger/dp/9462084408) is a great book with a beautiful set of examples.
+  - For one useful theory of approaching type design in a systematic way, [The Stroke, by Gerrit Noordzij](https://www.typotheque.com/books/the_stroke) is a classic
 
 ## Advanced topics
 
