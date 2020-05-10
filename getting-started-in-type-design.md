@@ -1,4 +1,4 @@
-# Getting started (or getting intermediate) in Type Design
+# Getting started (or intermediate) in Type Design
 
 ## Main editors: Glyphs & RoboFont
 
