@@ -25,7 +25,7 @@ So, you’re interested in type design, but you are still figuring out how & whe
 
 Making type is involves many things. Digital drawing is only one of the areas to master, but it is a core aspect. When I started out as a student in graphic design, I remember thinking, “Wait, Adobe doesn’t just make a type editor??” I was daunted by what seemed like a confusing world of indie apps, and not sure what to use and how to get started. Here is what I would tell someone in that position, today.
 
-Glyphs & RoboFont are the two most-commonly used editors in professional type design, and also the two editors I have the most familiarity with. This post isn’t really a comparison of the two; I 100% recommend either of them. 
+[Glyphs](http://glyphsapp.com/) & [RoboFont](https://robofont.com/) are the two most-commonly used editors in professional type design, and also the two editors I have the most familiarity with. This post isn’t really a comparison of the two; I 100% recommend either of them. 
 
 Generally, Glyphs is more approacheable and feels more “Mac-like” as an app: it is quite approachable and does some helpful things for you. RoboFont is a bit more intimidating to get started with, but provides more flexibility because it is less “opinionated” about what tools you need.
 
