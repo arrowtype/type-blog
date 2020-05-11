@@ -37,9 +37,9 @@ I have a lot of love for both apps!
 
 ## Alternative editors
 
-- Glyphs Mini has many of the features of Glyphs, with the main exception that it only allows 1 master per font (meaning that if you want to make multi-style typefaces, you will want to upgrade. If you are just drawing a single font, doing lettering, or making a logotype, this is about 5x better for drawing letters than Adobe Illustrator
-- FontLab 7 has some amazing features, and I’m sure people are doing good work on it, though I don’t have much familiarity with it. Unlike RoboFont & Glyphs, it is available on Mac *and* Windows, so if you’re on a Windows machine, this might be the app for you.
-- Font Forge is an open-source font editor, which is cross platform and freely available for Mac, Windows, and Linux. I also don’t have much familiarity with this one, but if you are just looking to explore type design without a big initial investment, this might be the perfect solution.
+- [Glyphs Mini](https://glyphsapp.com/glyphs-mini) has many of the features of Glyphs, with the main exception that it only allows 1 master per font (meaning that if you want to make multi-style typefaces, you will want to upgrade. If you are just drawing a single font, doing lettering, or making a logotype, this is about 5x better for drawing letters than Adobe Illustrator
+- [FontLab 7](https://www.fontlab.com/font-editor/fontlab/) has some amazing features and I’m sure people are doing good work on it, though I don’t have much personal familiarity with it. Unlike RoboFont & Glyphs, it is available on Mac *and* Windows, so if you’re on a Windows machine, this might be the app for you.
+- [FontForge](https://fontforge.org/en-US/) is an open-source font editor which is cross platform and freely available for Mac, Windows, and Linux. I also don’t have much familiarity with this one, but if you are just looking to explore type design without a big initial investment, this might be the perfect solution.
 
 ## Getting started in Glyphs
 
