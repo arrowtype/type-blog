@@ -1,4 +1,4 @@
-# Getting started in Type Design (and then getting to the next steps)
+# Getting started in Type Design (and getting to the next steps)
 
 So, you’re interested in type design, but you are still figuring out how & where to start or get to the next step. This post is a non-exhaustive attempt to share an overview of how you might learn some basics, how you can get started with font editing software, and where you might consider growing your skills after that. It reflects my bias and (some of) my personal experience, and it completely skips important topics like formal education, calligraphy and sketching, bezier drawing tips, and more. 
 
