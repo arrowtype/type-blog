@@ -8,8 +8,8 @@ So, you’re interested in type design, but you are still figuring out how & whe
 
 ### Useful Internet resources
 
-- The format of this post is somewhat informed by OHno Type’s blog post [Getting Started in Type Design](https://ohnotype.co/blog/getting-started). The latter two web resources in this list are borrowed directly from it.
-- [Spacing](https://ohnotype.co/blog/spacing) & [Proofing](https://ohnotype.co/blog/proof-it) by James Edmonson (OHno Type) are two excellent, practical posts for subjects beyond shaping that are super significant to good type design.
+- The format of this post is somewhat informed by James Edmonson’s (OHno Type) blog post [Getting Started in Type Design](https://ohnotype.co/blog/getting-started). The latter two web resources in this list are borrowed directly from it.
+- [Spacing](https://ohnotype.co/blog/spacing) & [Proofing](https://ohnotype.co/blog/proof-it), also by OHno Type, are two excellent, practical posts for subjects beyond drawing that are super significant to good type design.
 - [Type Basics, by Underware](http://www.typeworkshop.com/index.php?id1=type-basics). Not a flashy layout, but a serious of extremely helpful drawings with important lessons for type design.
 - [Type Mechanics, by Tobias Frere-Jones](https://frerejones.com/blog?tag=Education%20Mechanics). More useful explanations of some visual things that are important to know, but not always obvious.
 
