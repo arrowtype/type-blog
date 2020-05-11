@@ -1,16 +1,48 @@
-# Getting started (or intermediate) in Type Design
+# Getting started in Type Design (and then getting to the next steps)
 
-## Main editors: Glyphs & RoboFont
+So, you’re interested in type design, but you are still figuring out how & where to start or get to the next step. This post is a non-exhaustive attempt to share an overview of how you might learn some basics, how you can get started with font editing software, and where you might consider growing your skills after that. It reflects my bias and (some of) my personal experience, and it completely skips important topics like formal education, calligraphy and sketching, bezier drawing tips, and more. 
 
-Glyphs & RoboFont are the two editors I have familiarity with, and curently the two most-commonly used editors in type design. This post isn’t a comparison of the two. I 100% recommend either of them. Generally, Glyphs is more approacheable and feels more “Mac-like” as an app because it does some helpful things for you, while RoboFont is a bit more intimidating to get started with, but provides more flexibility because it is less “opinionated” about what tools you need.
+*This started as an email listing my favorite RoboFont extensions, and then I thought that it would be worth sharing publicly, and then I added more and it turned into a bigger post. In the future, I hope to bring it onto a proper blog as a collection of separate, more-focused topics.*
+
+## General learning
+
+### Useful Internet resources
+
+- The format of this post is somewhat informed by OHno Type’s blog post [Getting Started in Type Design](https://ohnotype.co/blog/getting-started). The latter two web resources in this list are borrowed directly from it.
+- [Spacing](https://ohnotype.co/blog/spacing) & [Proofing](https://ohnotype.co/blog/proof-it) by James Edmonson (OHno Type) are two excellent, practical posts for subjects beyond shaping that are super significant to good type design.
+- [Type Basics, by Underware](http://www.typeworkshop.com/index.php?id1=type-basics). Not a flashy layout, but a serious of extremely helpful drawings with important lessons for type design.
+- [Type Mechanics, by Tobias Frere-Jones](https://frerejones.com/blog?tag=Education%20Mechanics). More useful explanations of some visual things that are important to know, but not always obvious.
+
+### Useful books
+
+- For the very basics of letter-shaping, the first book I read in type design was really helpful: [Designing Type, by Karen Cheng](https://yalebooks.yale.edu/book/9780300111507/designing-type). It goes through each letter, showing their general forms via classic typefaces. Not necessarily useful if you have been designing for awhile, but it helped me gain an overall awareness of what is “general practice” that I found really helpful as a beginner.
+- For deeper (but still approacheable) reflections on theory, [The Theory of Type Design, by Gerard Unger](https://www.amazon.com/Theory-Type-Design-Gerard-Unger/dp/9462084408) is a great book with a beautiful set of examples.
+- For one useful theory of approaching type design in a systematic way, [The Stroke, by Gerrit Noordzij](https://www.typotheque.com/books/the_stroke) is a classic
+
+
+## My favorite font editors: Glyphs & RoboFont
+
+Making type is involves many things. Digital drawing is only one of the areas to master, but it is a core aspect. When I started out as a student in graphic design, I remember thinking, “Wait, Adobe doesn’t just make a type editor??” I was daunted by what seemed like a confusing world of indie apps, and not sure what to use and how to get started. Here is what I would tell someone in that position, today.
+
+Glyphs & RoboFont are the two most-commonly used editors in professional type design, and also the two editors I have the most familiarity with. This post isn’t really a comparison of the two; I 100% recommend either of them. 
+
+Generally, Glyphs is more approacheable and feels more “Mac-like” as an app: it is quite approachable and does some helpful things for you. RoboFont is a bit more intimidating to get started with, but provides more flexibility because it is less “opinionated” about what tools you need.
 
 I got started in Glyphs, and I now use RoboFont more. I use RoboFont largely because I like the way it encourages me to think about my workflow and consider what a given type family should be like. RoboFont is somewhat nicer for scripting (partly because it uses Python3), and its format is nicer for Git versioning. I also really like its approach to spacing. 
 
-To be honest, more of my heroes use RoboFont, which was my initial motivation to use it, and I have since become slightly more fluent in drawing with it. But, there are many professionals who use Glyphs. Some studios even use both, though this takes some scripting to handle well. I have a lot of love for both programs!
+To be honest, my initial motivation to use RoboFont was that most of my heroes in type use it. A couple years in, however, I have become more fluent in drawing with it, and I like it for many reasons. But, there are also many professionals who use Glyphs to make amazing type. Some studios even use both, though this takes some scripting to handle well. 
+
+I have a lot of love for both apps!
+
+## Alternative editors
+
+- Glyphs Mini has many of the features of Glyphs, with the main exception that it only allows 1 master per font (meaning that if you want to make multi-style typefaces, you will want to upgrade. If you are just drawing a single font, doing lettering, or making a logotype, this is about 5x better for drawing letters than Adobe Illustrator
+- FontLab 7 has some amazing features, and I’m sure people are doing good work on it, though I don’t have much familiarity with it. Unlike RoboFont & Glyphs, it is available on Mac *and* Windows, so if you’re on a Windows machine, this might be the app for you.
+- Font Forge is an open-source font editor, which is cross platform and freely available for Mac, Windows, and Linux. I also don’t have much familiarity with this one, but if you are just looking to explore type design without a big initial investment, this might be the perfect solution.
 
 ## Getting started in Glyphs
 
-Glyphs does an amazing job in tutorials & support. Check out https://glyphsapp.com/tutorials for advice on getting ready. The [Glyphs Forum](https://forum.glyphsapp.com/) provides excellent support, often faster than seems reasonably possible. There are great extensions for Glyphs, but I don’t really know much about these – see https://glyphsapp.com/extend for some good suggestions.
+Glyphs does an amazing job in tutorials & support. Check out https://glyphsapp.com/tutorials for advice on getting started. The [Glyphs Forum](https://forum.glyphsapp.com/) provides excellent support, often faster than seems reasonably possible. There are great extensions for Glyphs, but I don’t really know much about these – see https://glyphsapp.com/extend for some good suggestions.
 
 ## Getting started in RoboFont
 
@@ -20,9 +52,9 @@ The docs are pretty good at https://robofont.com/documentation/introduction/. Re
 
 If you have questions, the RoboFont Forum is very helpful: https://forum.robofont.com/. They usually answer questions within a day (many questions, of course, are already answered if you search for them).
 
-### Tools
+### RoboFont Extensions
 
-Find tools at https://robofontmechanic.com/.
+Most RoboFont extensions can be found at https://robofontmechanic.com/.
 
 Some of the free extensions I couldn’t work without:
 - Mechanic, to handle extensions
@@ -31,11 +63,12 @@ Some of the free extensions I couldn’t work without:
 - Glyph Browser, to make it easy to add specific glyphs with correct unicodes & naming
 - DesignSpace Edit, to help set up designspace documents that you can build with FontMake
 - EditThatNextMaster, to help working with multiple related fonts
-- GlyphMirror, which I showed you
+- GlyphMirror, an extension to draw mirrored versions of your drawing in a background visual, which makes it fast and easy to achieve symmetry. (This one is not yet available on Mechanic; get it from [its GitHub repo](https://github.com/RafalBuchner/glyphMirror)
 - Properties, to display distances in selected points, etc
 - Ramsay St, to show related glyphs in the glyph view
 - Shape Tool, to draw circles & rectangles
 - SpeedPunk, as one way to consider the smoothness of curves
+- Theme Editor, to make it easy to control your drawing theme
 - word-o-mat, to create strings to judge type in the Space Center
 
 Paid extensions:
@@ -47,20 +80,12 @@ You can get more-detailed documentation about RoboFont extensions at https://rob
 
 ## Other useful tools:
 
-- A really handy tool to create character sets: https://www.alphabet-type.com/tools/charset-builder/
+- [Alphabet Type’s CharSet Builder](https://www.alphabet-type.com/tools/charset-builder/) is a really handy tool to create character sets (an important early hurdle in RoboFont)
 - [FontGoggles](https://fontgoggles.org/) is a really good tool to quickly view fonts, useful to quickly test font builds. It can also be useful as a way to quickly compare how various fonts handle the design of certain characters, etc.
+- [Type-X](https://chrome.google.com/webstore/detail/type-x/bfnfnnicdjkkialkldogjjmmfeiopbin) is a tool I designed and built in collaboration with Roel Nieskens. It allows you to quickly & easily test any font on your system on (almost) any website. This can help you to judge your work in different web contexts (and can be a fun motivator to improve what you’re working on).
 
-## General learning
 
-- [Type Basics, by Underware](http://www.typeworkshop.com/index.php?id1=type-basics). Not a flashy layout, but a serious of extremely helpful drawings with important lessons for type design.
-- [Type Mechanics, by Tobias Frere-Jones](https://frerejones.com/blog?tag=Education%20Mechanics). More useful explanations of some visual things that are important to know, but not always obvious.
-- [Spacing](https://ohnotype.co/blog/spacing) & [Proofing](https://ohnotype.co/blog/proof-it) by James Edmonson (OHno Type) are two excellent, practical posts for subjects beyond shaping that are super significant to good type design. I also borrowed the first two suggestions from James’s post [Getting Started in Type Design](https://ohnotype.co/blog/getting-started).
-- Some useful books:
-  - For the very basics of letter-shaping, the first book I read in type design was really helpful: [Designing Type, by Karen Cheng](https://yalebooks.yale.edu/book/9780300111507/designing-type). It goes through each letter, showing their general forms via classic typefaces. Not necessarily useful if you have been designing for awhile, but it helped me gain an overall awareness of what is “general practice” that I found really helpful as a beginner.
-  - For deeper (but still approacheable) reflections on theory, [The Theory of Type Design, by Gerard Unger](https://www.amazon.com/Theory-Type-Design-Gerard-Unger/dp/9462084408) is a great book with a beautiful set of examples.
-  - For one useful theory of approaching type design in a systematic way, [The Stroke, by Gerrit Noordzij](https://www.typotheque.com/books/the_stroke) is a classic
-
-## Advanced topics
+## Technical areas
 
 - **Version control:** Git is pretty challenging to get started with, but extremely useful for all areas of technical design & code. 
   - [Git for Humans](https://abookapart.com/products/git-for-humans) is a a great introduction to using Git. 
