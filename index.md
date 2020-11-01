@@ -1,6 +1,6 @@
-# WIP Blog
+# The Arrow Type Blog (Beta)
 
-A spot to keep work-in-progress articles & tutorials for an eventual blog at [arrowtype.com](https://arrowtype.com/).
+This is a spot to keep work-in-progress articles & tutorials for an eventual blog at [arrowtype.com](https://arrowtype.com/). To view the source directly (e.g. to point out typos or suggest fixes), see [github.com/arrowtype/type-blog](https://github.com/arrowtype/type-blog/).
 
 ## Articles in progress
 
@@ -10,4 +10,4 @@ A spot to keep work-in-progress articles & tutorials for an eventual blog at [ar
 - [Using Drawbot in VS Code](2020-06-15--drawbot-in-vscode)
 - [Getting Started in Type](2020-05-01--getting-started-in-type)
 
-More on the way!
+I try to write fairly often to share what I know, so stay tuned for more on my [Twitter](https://twitter.com/ArrowType) and/or by [signing up for my newsletter](https://arrowtype.com/)!
