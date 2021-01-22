@@ -1,6 +1,10 @@
+# Getting the most out of RoboFont
+
 Type designers are lucky to have a variety of extremely-capable tools for creating new fonts. My favorite of these is RoboFont.
 
-I covered some of the reasons I like RoboFont in my earlier post, [Getting Started in Type](../getting-started). This post actually started as a section of that article, but I have since realized that I would like to add more extensions and more details. If you haven’t already read that article, there are lots of helpful tips there, so consider giving it a look, too!
+If you’re just getting started in RoboFont, it’s very worthwhile to browse through [the docs](https://robofont.com/documentation/). You can take a look at user questions (and ask your own!) on the [RoboFont Forum](https://forum.robofont.com/). But, it can also be pretty nice to learn tips from folks who use it, so here’s a blog post with a smattering of tips for using the software to the fullest.
+
+I covered some of the reasons I like RoboFont in an earlier post, [Getting Started in Type](../2020-05-01--getting-started-in-type). This post actually started as a section of that article, but I have since realized that I would like to add more extensions and more details. If you haven’t already read that article, there are lots of helpful general type design tips there, so consider giving it a look, too!
 
 ## Extensions I couldn’t live without
 
